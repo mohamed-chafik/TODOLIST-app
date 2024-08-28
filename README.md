@@ -22,7 +22,7 @@ This **Task Management Application** allows users to manage their tasks easily. 
 ## Usage
 To run the application:
 ```bash
-python task_management.py
+python TODO.py
 ```
 
 You can copy and paste this Markdown text into your README file, and it will render nicely in any Markdown viewer.
